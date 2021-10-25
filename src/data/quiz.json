@@ -1,0 +1,54 @@
+{
+    "data": [
+      {
+        "question": "How many time zones are there in Russia?",
+        "choices": ["11", "14", "09", "04"],
+        "answer": "11"
+      },
+      {
+        "question": "How many stripes are there on the US flag ?",
+        "choices": ["12", "09", "08", "13"],
+        "answer": "13"
+      },
+      {
+        "question": "Which country has the most islands in the world ?",
+        "choices": ["salzburg", "swedan", "Innsbruck", "Vienna"],
+        "answer": "swedan"
+      },
+      {
+        "question": "What is the longest river in the world ?",
+        "choices": ["Nile", "Amazon", "River ganges", "River congo"],
+        "answer": "Nile"
+      },
+      {
+        "question": "What is the best-selling book series of the 21st century ?",
+        "choices": ["Think and grow rich", "The secret", "Harry potter", "The alchemist"],
+        "answer": "Harry potter"
+      },
+      {
+        "question": "Who invented the World Wide Web ?",
+        "choices": ["Tim Berners-Lee", "Larry page", "vint cerf", "Bob kahn"],
+        "answer": "Tim Berners-Lee"
+      },
+      {
+        "question": "Which famous American pop band was originally called ‘Kara’s Flowers ?",
+        "choices": ["Justin Beiber", "Maroon 5", "selena gomez", "Ed sheeran"],
+        "answer": "Maroon 5"
+      },
+      {
+        "question": "What is the most loved sport in india?",
+        "choices": ["Football", "Hockey", "Cricket", "Chess"],
+        "answer": "Cricket"
+      },
+      {
+        "question": "When was Netflix founded?",
+        "choices": ["1998", "1999", "1995", "1997"],
+        "answer": "1997"
+      },
+      {
+        "question": "What is the GDP of india?",
+        "choices": ["2.4 trillion", "2.78 trillion", "3.3 trillion", "1.5 trillion"],
+        "answer": "2.78 trillion"
+      }
+    ]
+  }
